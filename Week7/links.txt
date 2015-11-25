@@ -2,3 +2,5 @@ http://ec2-52-10-150-250.us-west-2.compute.amazonaws.com/weathersearch/weatherwe
 http://www.naturalearthdata.com/downloads/10m-cultural-vectors/airports/
 http://gmaps-samples.googlecode.com/svn/trunk/poly/puzzledrag.html
 https://www.youtube.com/watch?v=vVX-PrBRtTY
+http://www.naturalearthdata.com/downloads/10m-cultural-vectors/airports/
+Shape File Converter: https://gallery.alteryx.com/#!app/Tableau-Shapefile-to-Polygon-Converter/5296f89120aaf905b8e7fb48
